@@ -1,0 +1,14 @@
+{
+  "employee_id": "E00001",
+  "salary_monthly": 30000,
+  "tenure_days": 240,
+  "num_withdrawals_last_30d": 2,
+  "num_withdrawals_last_90d": 3,
+  "avg_withdraw_amount": 5000,
+  "avg_withdraw_pct_of_salary": 0.1667,
+  "last_withdraw_days_ago": 4,
+  "savings_balance": 1200,
+  "other_loans": 1,
+  "department": "support",
+  "job_level": "junior"
+}
